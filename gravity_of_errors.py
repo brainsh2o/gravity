@@ -9,6 +9,7 @@ Created on Mon Jun 17 18:28:40 2019
 
 @author: aanderson
 """
+# added something new
 
 def xy(t, xy0, v0):
     """This function calculates the trajectory of an object
